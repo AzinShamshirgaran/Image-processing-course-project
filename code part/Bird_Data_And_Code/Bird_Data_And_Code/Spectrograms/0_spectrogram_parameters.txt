@@ -1,0 +1,4 @@
+sampling rate = 44100
+window size = 512
+window overlap = 0
+log10 of spectrum
